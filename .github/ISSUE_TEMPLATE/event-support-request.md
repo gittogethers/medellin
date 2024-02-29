@@ -1,6 +1,6 @@
 ---
 name: Event support request
-about: Describe this issue template's purpose here.
+about: Meetup
 title: "[Fecha year/month/day] GitTogether Medellin"
 labels: ''
 assignees: ''
@@ -13,15 +13,10 @@ assignees: ''
 | Fechas del Evento | |
 | ¿El evento es virtual, presencial o híbrido? | |
 | Tipo de Evento | |
-| URL del Evento | |
+| URL del Evento en Meetup GitHub LATAM | |
 | Ubicación | |
 | Descripción del Evento | |
 | Número esperado de participantes | |
-| Enlace a la Llamada a Propuestas (CFP) | |
-| Fecha Límite para Envío de CFP | |
-| Nivel de Participación Sugerido | ¿Cómo crees que GitHub debería participar en este evento? ¿Hablando? ¿Otros? Agrega detalles adicionales en el campo de abajo. Esto *no* es una confirmación oficial de participación. |
-| Talleres | Sobre Actions, GPR, etc. |
-| Reuniones específicas | Con mantenedores de os o organizadores de la comunidad |
-| Patrocinio | Logo, fondos, etc. |
+| Patrocinio |  Estimado refrigerio |
 | Personal para interactuar con los asistentes | |
 | Swag | |
