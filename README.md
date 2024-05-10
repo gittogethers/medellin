@@ -59,7 +59,7 @@ Nos esforzamos por crear un ambiente acogedor e inclusivo para todos. Por favor,
       <strong>Maria Ortiz</strong>
       <p align="center">
         <br>
-        <a href="https://www.instagram.com/mariaortiz/">
+        <a href="https://www.instagram.com/Vanessa Marely/">
           <img src="https://avatars.githubusercontent.com/u/4331491?v=4"  height="120" alt="vanessamarely">
         </a>
       </p>
