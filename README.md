@@ -6,7 +6,7 @@
 
 | Date | Title | Registration Link |
 |---|---|---|
-| 2024-05-21 | GitHub OpenSource Medellín | Meetup TBD
+| 2024-05-21 | GitHub OpenSource Medellín | [Meetup](https://gh.io/medeelin)
 
 ## Past Events 
 
