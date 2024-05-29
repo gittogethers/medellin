@@ -56,7 +56,7 @@ Nos esforzamos por crear un ambiente acogedor e inclusivo para todos. Por favor,
 <table align="center">
   <tr align="center">
     <td>
-      <strong>Maria Ortiz</strong>
+      <strong>Vanessa Marely</strong>
       <p align="center">
         <br>
         <a href="https://www.instagram.com/Vanessa Marely/">
