@@ -6,7 +6,7 @@
 
 | Date | Title | Registration Link |
 |---|---|---|
-| 2024-05-21 | GitHub OpenSource Medellín | [Meetup](https://gh.io/medeelin)
+| 2024-06-20 | Conoce más acerca de GitHub Copilot y GitHub pages | [GitHub OpenSource Medellín](https://www.meetup.com/gittogether-medellin/events/301607283/)
 
 ## Past Events 
 
@@ -16,6 +16,7 @@
 | 2023-08-17 | Contribuir en Open source & crear un proyecto en Microsoft project | [Enlace a la grabacion]() ||
 | 2024-03-09 | REACT EN ACCIÓN - PionerasDev Medellín 👀 👉 lu.ma/0dg8xpa7 | [Enlace a la grabacion]() |
 | 2024-04-13 | Medellín COL - Impact the Future: Women Techmakers | [Enlace a la grabacion]() |
+| 2024-05-21 | GitHub OpenSource Medellín | [Meetup](https://gh.io/medeelin)
 
 
 ## Cómo Participar
