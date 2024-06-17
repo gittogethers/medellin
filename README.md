@@ -53,6 +53,7 @@ Nos esforzamos por crear un ambiente acogedor e inclusivo para todos. Por favor,
 ¡Unamos fuerzas para construir una comunidad de código abierto más sólida en Medellín!
 
 ## Conoce a tus líderes
+
 <table align="center">
   <tr align="center">
     <td>
@@ -66,11 +67,11 @@ Nos esforzamos por crear un ambiente acogedor e inclusivo para todos. Por favor,
       <p align="center">
         <strong>@VanessaMarely</strong><br>
         GitHub Community Leader<br>
-                GitHub Star<br>
+        GitHub Star<br>
         <br><strong>Medellín, Colombia</strong><br>
         <br>
         <a href="https://github.com/vanessamarely">
-          <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
+          <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height="36"/>
         </a>
         <a href="https://www.linkedin.com/in/vanessamarely/">
           <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
@@ -78,7 +79,25 @@ Nos esforzamos por crear un ambiente acogedor e inclusivo para todos. Por favor,
       </p>
     </td>
     <td>
-       </tr>
-  <tr align="center">
+      <strong>JeanPaulYps</strong>
+      <p align="center">
+        <br>
+        <a href="https://github.com/JeanPaulYps/">
+          <img src="https://avatars.githubusercontent.com/u/26822098?v=4"  height="120" alt="jeanpaulyps">
+        </a>
+      </p>
+      <p align="center">
+        <strong>@JeanPaulYps</strong><br>
+        Organizer<br>
+        <br><strong>Medellín, Colombia</strong><br>
+        <br>
+        <a href="https://github.com/JeanPaulYps/">
+          <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height="36"/>
+        </a>
+        <a href="https://www.linkedin.com/in/jeanpaulyps/">
+          <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+        </a>
+      </p>
+    </td>
   </tr>
 </table>
