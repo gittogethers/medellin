@@ -6,7 +6,7 @@
 
 | Date | Title | Registration Link |
 |---|---|---|
-| 2024-11-13 | Creemos una aplicación Web usando Github Copilot & Novedades de Github Universe | [[GitHub OpenSource Medellín](https://www.meetup.com/gittogether-medellin/events/301607283/)](https://www.meetup.com/es-ES/gittogether-medellin/events/303602080/)
+| 2024-11-13 | Creemos una aplicación Web usando Github Copilot & Novedades de Github Universe | [Meetup](https://www.meetup.com/es-ES/gittogether-medellin/events/303602080/)
 
 ## Past Events 
 
@@ -18,7 +18,7 @@
 | 2024-04-13 | Medellín COL - Impact the Future: Women Techmakers | [Enlace a la grabacion]() |
 | 2024-05-21 | GitHub OpenSource Medellín | [Meetup](https://gh.io/medeelin)
 | 2024-06-20 | Conoce más acerca de GitHub Copilot y GitHub pages | [GitHub OpenSource Medellín](https://www.meetup.com/gittogether-medellin/events/301607283/)
-| 2024-09-19 | GitHub Marketplace and DevOps in a nutshell | [[GitHub OpenSource Medellín](https://www.meetup.com/gittogether-medellin/events/301607283/)](https://www.meetup.com/es-ES/gittogether-medellin/events/302988457/)
+| 2024-09-19 | GitHub Marketplace and DevOps in a nutshell | [GitHub OpenSource Medellín](https://www.meetup.com/gittogether-medellin/events/301607283/)
 
 
 ## Cómo Participar
