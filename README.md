@@ -6,7 +6,7 @@
 
 | Date | Title | Registration Link |
 |---|---|---|
-| 2024-11-13 | Creemos una aplicación Web usando Github Copilot & Novedades de Github Universe | [Meetup](https://www.meetup.com/es-ES/gittogether-medellin/events/303602080/)
+
 
 ## Past Events 
 
