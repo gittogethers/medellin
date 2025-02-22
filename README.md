@@ -6,7 +6,7 @@
 
 | Date | Title | Registration Link |
 |---|---|---|
-
+| 2025-02-20 | CI/CD, GitHub Actions, y Infraestructura con AWS 6:00PM | [Enlace de Meetup](https://www.meetup.com/es-ES/gittogether-medellin/events/306021996) |
 
 ## Past Events 
 
@@ -25,12 +25,12 @@
 
 **¿Quieres hablar en un evento?**
 
-1. Envia tu propuesta a nuestra [Convocatoria de Ponentes](https://docs.google.com/forms/d/e/1FAIpQLSdn2-g3ht10rqWkUQ6lfLD1aOnx4iyP2PWqaxY1r_8ju7_bWA/viewform).
+1. Envia tu propuesta a nuestra [Convocatoria de Ponentes](https://forms.gle/L5XrRKXeVtLJRsMq8).
 2. Sigue las instrucciones para enviar tu propuesta de charla.
 
 **¿Quieres asistir?**
 
-1. Explora los próximos [eventos](https://www.meetup.com/github-latam/).
+1. Explora los próximos [eventos](https://www.meetup.com/es-ES/gittogether-medellin).
 2. Regístrate a través de los enlaces de registro proporcionados.
 
 **¿Tienes comentarios, quieres sugerir un tema o contribuir de otras formas?**
