@@ -6,20 +6,23 @@
 
 | Date | Title | Registration Link |
 |---|---|---|
-| 2025-02-20 | CI/CD, GitHub Actions, y Infraestructura con AWS 6:00PM | [Enlace de Meetup](https://www.meetup.com/es-ES/gittogether-medellin/events/306021996) |
-| 2025-03-29 | CI/CD de Microservicios con GitHub Actions para Entornos MultiCloud 9:00AM | [Enlace de Meetup](https://www.meetup.com/es-ES/gittogether-medellin/events/306335341) |
+| 2025-06-07 | Git & Github Copilot from scratch 9:00AM | [Enlace de Meetup](https://www.meetup.com/gittogether-medellin/events/308134048/) |
+
+
 
 ## Past Events 
 
 | Date | Title | Resources |
 |---|---|---|
-| 2023-05-18 | GitTogether Medellin Colombia 6PM | [Enlace a la grabacion](https://www.youtube.com/watch?v=yi4veRCNHO8) |
-| 2023-08-17 | Contribuir en Open source & crear un proyecto en Microsoft project | [Enlace a la grabacion]() ||
+| 2025-02-20 | CI/CD, GitHub Actions, y Infraestructura con AWS 6:00PM | [Enlace de Meetup](https://www.meetup.com/es-ES/gittogether-medellin/events/306021996) |
+| 2025-03-29 | CI/CD de Microservicios con GitHub Actions para Entornos MultiCloud 9:00AM | [Enlace de Meetup](https://www.meetup.com/es-ES/gittogether-medellin/events/306335341) |
 | 2024-03-09 | REACT EN ACCIÓN - PionerasDev Medellín 👀 👉 lu.ma/0dg8xpa7 | [Enlace a la grabacion]() |
 | 2024-04-13 | Medellín COL - Impact the Future: Women Techmakers | [Enlace a la grabacion]() |
 | 2024-05-21 | GitHub OpenSource Medellín | [Meetup](https://gh.io/medeelin)
 | 2024-06-20 | Conoce más acerca de GitHub Copilot y GitHub pages | [GitHub OpenSource Medellín](https://www.meetup.com/gittogether-medellin/events/301607283/)
 | 2024-09-19 | GitHub Marketplace and DevOps in a nutshell | [GitHub OpenSource Medellín](https://www.meetup.com/gittogether-medellin/events/301607283/)
+| 2023-05-18 | GitTogether Medellin Colombia 6PM | [Enlace a la grabacion](https://www.youtube.com/watch?v=yi4veRCNHO8) |
+| 2023-08-17 | Contribuir en Open source & crear un proyecto en Microsoft project | [Enlace a la grabacion]() ||
 
 
 ## Cómo Participar
