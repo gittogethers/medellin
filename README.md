@@ -6,7 +6,7 @@
 
 | Date | Title | Registration Link |
 |---|---|---|
-| 2025-06-07 | Git & Github Copilot from scratch 9:00AM | [Enlace de Meetup](https://www.meetup.com/gittogether-medellin/events/308134048/) |
+| 2025-08-02 | Workshop Github Copilot| [Enlace de Meetup](https://www.meetup.com/gittogether-medellin/events/308372314/) |
 
 
 
@@ -14,6 +14,7 @@
 
 | Date | Title | Resources |
 |---|---|---|
+| 2025-06-07 | Git & Github Copilot from scratch 9:00AM | [Enlace de Meetup](https://www.meetup.com/gittogether-medellin/events/308134048/) |
 | 2025-02-20 | CI/CD, GitHub Actions, y Infraestructura con AWS 6:00PM | [Enlace de Meetup](https://www.meetup.com/es-ES/gittogether-medellin/events/306021996) |
 | 2025-03-29 | CI/CD de Microservicios con GitHub Actions para Entornos MultiCloud 9:00AM | [Enlace de Meetup](https://www.meetup.com/es-ES/gittogether-medellin/events/306335341) |
 | 2024-03-09 | REACT EN ACCIÓN - PionerasDev Medellín 👀 👉 lu.ma/0dg8xpa7 | [Enlace a la grabacion]() |
